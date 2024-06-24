@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "flower.delivery.android",
+    "sha256_cert_fingerprints":
+    ["F3:B2:11:5A:F0:2A:7E:04:69:96:F5:E0:F6:A8:2A:00:14:89:89:9F:0B:A6:DC:FE:7F:70:ED:E9:06:51:33:50"]
+  }
+}]
